@@ -3,7 +3,7 @@ using namespace std;
 
 class queues {
 	int FRONT, REAR, max = 5; 
-	int queve_array[5];  
+	int queve_array[5];   
 
 public:
 	queues() {
